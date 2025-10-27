@@ -22,7 +22,7 @@ It includes two main pages  **Home** and **Contact**  designed to introduce myse
 
 ##  How to View
 
-You can access my portfolio website by visting [link] feel free to explore the content and get in touch.
+You can access my portfolio website by visting [https://deekshajeeva.github.io/portfolio-simple-website/] feel free to explore the content and get in touch.
 
 
 ---
