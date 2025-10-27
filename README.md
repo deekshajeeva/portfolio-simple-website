@@ -4,28 +4,28 @@ Welcome to my portfolio website. My portfolio website is built using HTML to str
 
 It includes two main pages Home and Contact designed to introduce myself and provide a way for visitors to reach out.
 
-🖥️ Pages
+ Pages
 
 Home Page: A short introduction and overview of my work.
 
 Contact Page: A simple form or contact details to get in touch.
 
-🛠️ Technologies Used
+ Technologies Used
 
 HTML – for website structure
 
 CSS – for design and styling
 
-🔍 How to View
+ How to View
 
 You can access my portfolio website bu visting [link] feel free to explore the content and get in touch.
 
 
-🤝 Contributing
+ Contributing
 
 Contributions, issues, and feature requests are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
 
-✨ Thank you for visiting my portfolio website!
+ Thank you for visiting my portfolio website!
 I appreciate your time and interest — feel free to share your feedback or connect with me through the contact page.
