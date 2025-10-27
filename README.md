@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website. My portfolio website is built using HTML to structure sections like the header, about, projects, and contact form, while CSS is used to style the layout with colors, fonts, and spacing. The black-and-orange theme and box designs are created with CSS classes, giving the site a clean, professional look.
 
-It includes two main pages — **Home** and **Contact** — designed to introduce myself and provide a way for visitors to reach out.
+It includes two main pages  **Home** and **Contact**  designed to introduce myself and provide a way for visitors to reach out.
 
 ---
 
@@ -40,8 +40,3 @@ I appreciate your time and interest — feel free to share your feedback or conn
 
 ---
 
-Would you like me to add a **preview image** section (like a screenshot of your homepage) to make the README more attractive for GitHub?
-
-
- Thank you for visiting my portfolio website!
-I appreciate your time and interest — feel free to share your feedback or connect with me through the contact page.
